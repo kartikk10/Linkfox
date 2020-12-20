@@ -12,7 +12,7 @@ pandas>=0.19
 pickle-mixin==1.0.2
 terminado==0.8.3
 beautifulsoup4==4.9.0
-whois==0.7.3
-urllib3==1.25.8
-datetime==2.8.1
-requests==2.23.0
+whois
+urllib3
+datetime
+requests
